@@ -1,4 +1,5 @@
 ## Formula UFMG 👋
+![BORA CAVALO](https://github.com/Formula-UFMG/.github/assets/134892859/1c1fcacf-cf44-4de1-a499-6a7ad44ef449)
 
 <!--
 
