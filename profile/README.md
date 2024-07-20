@@ -1,7 +1,5 @@
 # Formula UFMG - Cavalo
 ![BORA CAVALO](https://github.com/Formula-UFMG/.github/assets/134892859/1c1fcacf-cf44-4de1-a499-6a7ad44ef449)
-## Capa de Apresentação da Equipe
-
 Bem-vindo ao repositório da equipe Formula UFMG! Este espaço é dedicado ao desenvolvimento colaborativo dos nossos projetos, seguindo as melhores práticas de versionamento e documentação. Aqui, você encontrará todas as informações necessárias para garantir que nosso trabalho seja organizado, eficiente e bem documentado.
 
 ## Por que utilizamos o GitHub:
